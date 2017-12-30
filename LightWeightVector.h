@@ -1,0 +1,5 @@
+#ifndef _LIGHTWEIGHTVECTOR_H
+#define _LIGHTWEIGHTVECTOR_H
+
+
+#endif
